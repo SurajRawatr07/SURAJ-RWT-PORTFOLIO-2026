@@ -1,26 +1,183 @@
+<div align="center">
 
-## Project info
+# 🚀 SURAJ RWT PORTFOLIO 2026
 
-**URL**: https://dishudaksh.netlify.app/
+### Modern Developer Portfolio Website
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<p align="center">
+  A premium personal portfolio website built to showcase projects, skills, achievements, and frontend development experience with modern UI/UX design.
+</p>
 
-**Use GitHub Codespaces**
+<br>
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<a href="https://dishudaksh.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge" />
+</a>
 
-## What technologies are used for this project
+<a href="https://github.com/SurajRawatr07/SURAJ-RWT-PORTFOLIO-2026">
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+</a>
 
-This project is built with:
+<br><br>
 
-- Vite
+<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat-square&logo=vite" />
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/TypeScript-Language-blue?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/shadcn/ui-Components-black?style=flat-square" />
+
+</div>
+
+---
+
+# ✨ Features
+
+✔️ Modern Portfolio Design  
+✔️ Fully Responsive Layout  
+✔️ Smooth Animations  
+✔️ Interactive UI Components  
+✔️ Dark / Light Mode  
+✔️ Project Showcase Section  
+✔️ Skills & About Section  
+✔️ Beautiful Landing Page  
+✔️ Fast Performance  
+✔️ Clean UI/UX Experience  
+
+---
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+
+- React.js
 - TypeScript
-- React
-- shadcn-ui
+- Vite
 - Tailwind CSS
+- Framer Motion
+
+## 🧩 UI Components
+
+- shadcn-ui
+- Lucide React Icons
+
+## 🚀 Deployment
+
+- Netlify
+
+---
+
+# 📂 Project Structure
+
+```bash
+SURAJ-RWT-PORTFOLIO-2026/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── assets/
+│   ├── styles/
+│   └── lib/
+│
+├── package.json
+├── vite.config.ts
+├── tailwind.config.ts
+└── README.md
+```
+
+---
+
+# ⚡ Getting Started
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/SurajRawatr07/SURAJ-RWT-PORTFOLIO-2026.git
+```
+
+## 2️⃣ Go To Project Folder
+
+```bash
+cd SURAJ-RWT-PORTFOLIO-2026
+```
+
+## 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+## 4️⃣ Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 🎨 UI Highlights
+
+- Premium Hero Section
+- Smooth Scroll Animations
+- Interactive Portfolio Layout
+- Modern Color Combination
+- Mobile Optimized Design
+- Professional UI Experience
+
+---
+
+# 📱 Responsive Design
+
+Works perfectly on:
+
+- Desktop 💻
+- Tablet 📱
+- Mobile 📲
+
+---
+
+# 🔥 Why This Portfolio?
+
+This portfolio showcases modern frontend development skills, creative UI design, responsive layouts, and professional web development experience.
+
+---
+
+# 🚀 Future Improvements
+
+- Blog Section
+- AI Chat Integration
+- Dynamic Project Dashboard
+- Advanced Animations
+- CMS Integration
+
+---
+
+# 👨‍💻 Author
+
+## Suraj Rawat
+
+Frontend Developer • React Developer • UI/UX Enthusiast
+
+---
+
+# 🌟 Support
+
+If you like this project, give it a ⭐ on GitHub.
+
+---
+
+# 💬 Connect With Me
+
+### GitHub
+
+👉 https://github.com/SurajRawatr07
+
+---
+
+<div align="center">
+
+# ❤️ Made With Passion By Suraj Rawat
+
+</div>
