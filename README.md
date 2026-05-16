@@ -10,19 +10,19 @@
 
 <br>
 
-<a href="https://dishudaksh.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge" />
+<a href="https://surajrawatportfolio2026.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Website-Visit_Now-blue?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/SurajRawatr07/SURAJ-RWT-PORTFOLIO-2026">
-  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat-square&logo=vite" />
 <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/TypeScript-Language-blue?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=flat-square&logo=vite" />
 <img src="https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?style=flat-square&logo=tailwind-css" />
 <img src="https://img.shields.io/badge/shadcn/ui-Components-black?style=flat-square" />
 
@@ -41,7 +41,7 @@
 ✔️ Skills & About Section  
 ✔️ Beautiful Landing Page  
 ✔️ Fast Performance  
-✔️ Clean UI/UX Experience  
+✔️ Professional UI/UX Experience  
 
 ---
 
@@ -165,14 +165,6 @@ Frontend Developer • React Developer • UI/UX Enthusiast
 # 🌟 Support
 
 If you like this project, give it a ⭐ on GitHub.
-
----
-
-# 💬 Connect With Me
-
-### GitHub
-
-👉 https://github.com/SurajRawatr07
 
 ---
 
