@@ -168,8 +168,4 @@ If you like this project, give it a ⭐ on GitHub.
 
 ---
 
-<div align="center">
 
-# ❤️ Made With Passion By Suraj Rawat
-
-</div>
