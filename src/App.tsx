@@ -6,7 +6,5 @@ const App = () => (
   <QueryClientProv
       </BrowserRouter>
     </TooltipProvider>
-  </QueryClientProvider>
-);
-
+  </QueryClientProv
 export default
