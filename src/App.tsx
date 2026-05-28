@@ -5,6 +5,3 @@ import { T
 const App = () => (
   <QueryClientProv
       </BrowserRouter>
-    </TooltipProvider>
-  </QueryClientProv
-export default
