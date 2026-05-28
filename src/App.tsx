@@ -3,4 +3,4 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { T
 
 const App = () => (
-  <Query
+  <Quer
