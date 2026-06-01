@@ -8,14 +8,7 @@ import ShutterSplash from '@/components/ShutterSplash';
 import MarqueeStrip from '@/compone
     <main className="relative min-h-screen overflow-x-hidden w-full">
       {/* Shutter Splash */}
-      {!splashDone && <ShutterSplash onComplete={handleSplashComplete} />}
-
-      {/* Animated Background */}
-      <AnimatedBackground />
-      
-      {/* Navigation */}
-      <Navbar />
-      
+      {!splashDon
       {/* Main Content */}
       <Hero />
       <MarqueeStrip />
