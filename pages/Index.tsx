@@ -5,13 +5,7 @@ import About from '@/components/About';
 import Expponents/Footer';
 import AnimatedBackground from '@/components/AnimatedBackground';
 import ShutterSplash from '@/components/ShutterSplash';
-import MarqueeStrip from '@/components/MarqueeStrip';
-
-const Index = () => {
-  const [splashDone, setSplashDone] = useState(false);
-  const handleSplashComplete = useCallback(() => setSplashDone(true), []);
-
-  return (
+import MarqueeStrip from '@/compone
     <main className="relative min-h-screen overflow-x-hidden w-full">
       {/* Shutter Splash */}
       {!splashDone && <ShutterSplash onComplete={handleSplashComplete} />}
