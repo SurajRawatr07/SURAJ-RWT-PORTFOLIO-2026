@@ -5,11 +5,7 @@ import About from '@/components/About';
 import Expponents/Footer';
 import AnimatedBackground from '@/components/AnimatedBackground';
 import ShutterSplash from '@/components/ShutterSplash';
-import MarqueeStrip from '@/compone
-    <main className="relative min-h-screen overflow-x-hidden w-full">
-      {/* Sh
-      <Experience />
-      <Skills />
+importls />
       <Projects />
       <Achievements />
       <Contact />
