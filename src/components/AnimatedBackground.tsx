@@ -8,17 +8,7 @@ export default function AnimatedBackground() {
       {/* Soft mesh gradient base */}
       <div
         className="absolute inset-0 opacity-90"
-        style={{ background: 'var(--gradient-mesh)' }}
-      />
-
-      {/* Subtle dotted grid */}
-      <div
-        className="absolute inset-0 opacity-[0.35]"
-        style={{
-          backgroundImage:
-            'radial-gradient(hsl(var(--foreground) / 0.08) 1px, transparent 1px)',
-          backgroundSize: '28px 28px',
-          maskImage:
+        style={{ background
             'radial-gradient(ellipse at center, black 40%, transparent 85%)',
           WebkitMaskImage:
             'radial-gradient(ellipse at center, black 40%, transparent 85%)',
