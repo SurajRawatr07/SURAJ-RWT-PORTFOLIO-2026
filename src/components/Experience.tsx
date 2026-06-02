@@ -2,10 +2,7 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 import {
-  CalendarDays,
-  GraduationCap,
-  Sparkl
-} from 'lucide-react';
+  Calucide-react';
 
 /* =========================================
    EXPERIENCE DATA
