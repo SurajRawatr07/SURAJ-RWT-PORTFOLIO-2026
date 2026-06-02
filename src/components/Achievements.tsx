@@ -12,8 +12,7 @@ const images = import.meta.glob(
   const isInView = useInView(ref, {
     once: tr, setActive] = useState(0);
 
-  const next = () => {
-    setActive((prev) => (prev + 1) % certificates.length);
+  const nive((prev) => (prev + 1) % certificates.length);
   };
 
   const prev = () => {
