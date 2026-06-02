@@ -5,12 +5,7 @@ import e-react';
    EXPERIENCE DATA
 ===============w Date('2024-01-01'),
 
-    locat
-    description: [
-      'Built and deployed scalable MERN stack applications with modern architecture and responsive user experiences',
-      'Designed secure RESTful APIs with authentication, middleware integration, and optimized backend workflows',
-      'Improved frontend and backend performance using lazy loading, caching strategies, and efficient database queries',
-      'Implemented CI/CD workflows using GitHub, Vercel, and deployment automation platforms',
+    located CI/CD workflows using GitHub, Vercel, and deployment automation platforms',
       'Continuously strengthening DSA, system design, and real-world engineering problem-solving skills',
     ],
 
