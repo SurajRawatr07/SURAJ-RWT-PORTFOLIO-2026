@@ -4,9 +4,7 @@ import { useRef } from 'react';
 import {
   CalendarDays,
   GraduationCap,
-  Sparkles,
-  Trophy,
-  Code2,
+  Sparkl
 } from 'lucide-react';
 
 /* =========================================
