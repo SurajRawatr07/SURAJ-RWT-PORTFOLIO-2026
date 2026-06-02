@@ -2,12 +2,7 @@ import { motion, useInView } from 'framer-motion';
 import { useRef, useState } from 'react';
 
 import {
-  Mail,
-  Phone,
-  MapP
-    icon: Phone,
-    labe
-    icon: MapPin,
+  Mail,,
     label: 'Location',
     value: 'Haldwani, Uttarakhand, India',
     href: '#',
