@@ -8,10 +8,7 @@ import {
   Heart,
 } from 'luc
 const socials = [
-    username: '@SurajRawatr07',
-    gradient: 'from-zinc-500 to-zinc-700',
-  },
-
+    use
   {
     icon: Linkedin,
     href: 'https://www.linkedin.com/in/suraj-rawat-30513b340',
