@@ -5,11 +5,39 @@ import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 // AUTO IMPORT ALL CERTIFICATE IMAGES
 const images = import.meta.glob(
   '/src/assets/certificates/*.{png,jpg,jpeg,JPG,JPEG,PNG}',
-  { Achievements() {
+  {
+    eager: true,
+    import: 'default',
+  }
+);
+
+const certificateImages = Object.values(images);
+
+const certificates = certificateImages.map((image, index) => ({
+  title: `Certificate ${index + 1}`,
+  issuer: 'Organizations & Colleges',
+  date: '2025 & 2026',
+  image: image as string,
+}));
+
+export default function Achievements() {
   const ref = useRef(null);
 
-  con
+  const isInView = useInView(ref, {
+    once: true,
+  });
 
+  const [active, setActive] = useState(0);
+
+  const next = () => {
+    setActive((prev) => (prev + 1) % certificates.length);
+  };
+
+  const prev = () => {
+    setActive(
+      (prev) => (prev - 1 + certificates.length) % certificates.length
+    );
+  };
 
   const handleDragEnd = (_: unknown, info: PanInfo) => {
     if (info.offset.x < -50) next();
