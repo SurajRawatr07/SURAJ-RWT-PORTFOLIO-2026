@@ -9,12 +9,7 @@ import {
   Code2,
   Linkedin,
   Instagram,
-  Globe,
-  Database,
- Server,
-} from 'lucide-react';
-
-import profileImage from '@/assets/profile.png';
+  Globe,from '@/assets/profile.png';
 
 /* =========================================
    ROLE ANIMATION
