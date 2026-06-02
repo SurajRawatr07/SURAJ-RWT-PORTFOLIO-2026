@@ -5,8 +5,6 @@ export default function AnimatedBackground() {
 
   return (
     <div className="fixed inset-0 -z-10 overflow-hidden pointer-events-none bg-background">
-      {/* orbs (dName="absolute -top-32 -left-32 w-[40rem] h-[40rem] rounded-full bg-primary/20 blur-3xl animate-blob" />
-          lassName="absolute inset-x-0 bottom-0 h-72 bg-gradient-to-t from-background/60 to-transparent" />
-    </div>
+      {>
   );
 }
