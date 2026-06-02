@@ -2,10 +2,51 @@ import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 
 import {
-  Chs
-  ,========================== */
+  ChevronDown,
+  Download,
+  Mail,
+  Sparkles,
+  Code2,
+  ArrowRight,
+  Github,
+  Linkedin,
+  Instagram,
+  Globe,
+  Database,
+ Server,
+} from 'lucide-react';
 
-const ]
+import profileImage from '@/assets/profile.png';
+
+/* =========================================
+   ROLE ANIMATION
+========================================= */
+
+const roles = [
+  'FULL STACK DEVELOPER',
+  'MERN STACK DEVELOPER',
+  'REACT & NEXT.JS DEVELOPER',
+  'BACKEND ENGINEER',
+  'BCA STUDENT & FREELANCER',
+];
+
+/* =========================================
+   TECH STACK
+========================================= */
+
+const techStack = [
+  {
+    icon: Globe,
+    label: 'React.js',
+    color: 'text-cyan-400',
+  },
+
+  {
+    icon: Server,
+    label: 'Node.js',
+    color: 'text-green-500',
+  },
+
   {
     icon: Database,
     label: 'MongoDB',
