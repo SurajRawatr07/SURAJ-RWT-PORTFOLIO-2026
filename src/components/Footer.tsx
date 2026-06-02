@@ -9,10 +9,6 @@ import {
 } from 'lucide-react';
 
 const socials = [
-  {
-    icon: Github,
-    href: 'https://github.com/SurajRawatr07',
-    label: 'GitHub',
     username: '@SurajRawatr07',
     gradient: 'from-zinc-500 to-zinc-700',
   },
