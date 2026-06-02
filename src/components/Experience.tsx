@@ -2,8 +2,6 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 import {
-  Briefcase,
-  MapPin,
   CalendarDays,
   GraduationCap,
   Sparkles,
