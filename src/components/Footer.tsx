@@ -3,10 +3,33 @@ import { motion } from 'framer-motion';
 import {
   Github,
   Linkedin,
-  IwUpRigs
-  'Suraj Rawat',
-    gradienas
-  agram,
+  Instagram,
+  Mail,
+  ArrowUpRight,
+  Heart,
+  Sparkles,
+  Code2,
+} from 'lucide-react';
+
+const socials = [
+  {
+    icon: Github,
+    href: 'https://github.com/SurajRawatr07',
+    label: 'GitHub',
+    username: '@SurajRawatr07',
+    gradient: 'from-zinc-500 to-zinc-700',
+  },
+
+  {
+    icon: Linkedin,
+    href: 'https://www.linkedin.com/in/suraj-rawat-30513b340',
+    label: 'LinkedIn',
+    username: 'Suraj Rawat',
+    gradient: 'from-blue-500 to-cyan-500',
+  },
+
+  {
+    icon: Instagram,
     href: 'https://www.instagram.com/surajrawat07',
     label: 'Instagram',
     username: '@surajrawat07',
