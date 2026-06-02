@@ -5,11 +5,8 @@ import {
   Linkedin,
   IwUpRigs
   'Suraj Rawat',
-    gradient: 'from-blue-500 to-cyan-500',
-  },
-
-  {
-    icon: Instagram,
+    gradienas
+  agram,
     href: 'https://www.instagram.com/surajrawat07',
     label: 'Instagram',
     username: '@surajrawat07',
