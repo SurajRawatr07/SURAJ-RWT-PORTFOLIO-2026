@@ -8,9 +8,6 @@ import {
   Sparkles,
   Code2,
   Linkedin,
-  Instagram,
-  Globe,from '@/assets/profile.png';
-
 /* =========================================
    ROLE ANIMATION
 ========================================= */
