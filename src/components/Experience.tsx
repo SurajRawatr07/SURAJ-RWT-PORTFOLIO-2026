@@ -1,11 +1,47 @@
 import { motion, useInView } from 'framer-motion';
-import e-react';
+import { useRef } from 'react';
+
+import {
+  Briefcase,
+  MapPin,
+  CalendarDays,
+  GraduationCap,
+  Sparkles,
+  Trophy,
+  Code2,
+} from 'lucide-react';
 
 /* =========================================
    EXPERIENCE DATA
-===============w Date('2024-01-01'),
+========================================= */
 
-    located CI/CD workflows using GitHub, Vercel, and deployment automation platforms',
+const experiences = [
+  {
+    title: 'Full-Stack Developer (Projects & Practice)',
+
+    company: 'Self-Driven Learning',
+
+    type: 'Experience',
+
+    period: 'Jan 2024 - Present',
+
+    startDate: new Date('2024-01-01'),
+
+    location: 'Remote',
+
+    skills: [
+      'React',
+      'Node.js',
+      'MongoDB',
+      'Express',
+      'REST APIs',
+    ],
+
+    description: [
+      'Built and deployed scalable MERN stack applications with modern architecture and responsive user experiences',
+      'Designed secure RESTful APIs with authentication, middleware integration, and optimized backend workflows',
+      'Improved frontend and backend performance using lazy loading, caching strategies, and efficient database queries',
+      'Implemented CI/CD workflows using GitHub, Vercel, and deployment automation platforms',
       'Continuously strengthening DSA, system design, and real-world engineering problem-solving skills',
     ],
 
