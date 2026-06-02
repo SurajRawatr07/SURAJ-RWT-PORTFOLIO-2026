@@ -6,8 +6,6 @@ import {
   Instagram,
   ArrowUpRight,
   Heart,
-  Sparkles,
-  Code2,
 } from 'lucide-react';
 
 const socials = [
