@@ -6,11 +6,7 @@ import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 const images = import.meta.glob(
   '/src/assets/certificates/*.{png,jpg,jpeg,JPG,JPEG,PNG}',
   {
-    eager: true,
-    import: 'default',
-  }
-);
-const certit function Achievements() {
+    eager: tunction Achievements() {
   const ref = useRef(null);
 
   const isInView = useInView(ref, {
