@@ -1,11 +1,4 @@
-import { motion, useInView } from 'framer-motion';
-import { useRef, useState } from 'react';
-
-import {
-  Mail,,
-    label: 'Location',
-    value: 'Haldwani, Uttarakhand, India',
-    href: '#',
+import { ',
     gradient: 'from-emerald-500 to-teal-500',
   },
 ];
