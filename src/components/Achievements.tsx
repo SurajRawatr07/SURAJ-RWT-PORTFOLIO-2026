@@ -10,9 +10,6 @@ const images = import.meta.glob(
     import: 'default',
   }
 );
-
-const certificateImages = Object.values(images);
-
 const certifistring,
 }));
 
