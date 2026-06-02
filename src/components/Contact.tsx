@@ -7,11 +7,7 @@ import {
   MapP
   Briefcase,
 } from 'lucide-react';
-
-import { t
-/* =========================================
-   CONTACT INFO
-========================================= */
+============================= */
 
 const contactInfo = [
   {
