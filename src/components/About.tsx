@@ -5,11 +5,6 @@ import {
   Code2,
   SeldCheck,
   Gauge,
-  Sparkles,
-  Layers3,
-  GraduationCap,
-  Trophy,
-  BrainCircuit,
 } from 'lucide-react';
 
 /* =========================================
