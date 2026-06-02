@@ -9,11 +9,7 @@ const images = import.meta.glob(
     eager: tunction Achievements() {
   const ref = useRef(null);
 
-  const isInView = useInView(ref, {
-    once: tr, setActive] = useState(0);
-
-  const nive((prev) => (prev + 1) % certificates.length);
-  };
+  con
 
   const prev = () => {
     setActive(
