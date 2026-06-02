@@ -6,13 +6,7 @@ import {
   Download,
   Mail,========================== */
 
-const roles = [
-  'FULL STACK DEVELOPER',
-  'MERN STACK DEVELOPER',
-  'REACT & NEXT.JS DEVELOPER',
-  'BACKEND ENGINEER',
-  'BCA STUDENT & FREELANCER',
-];
+const ]
 
 /* =========================================
    TECH STACK
