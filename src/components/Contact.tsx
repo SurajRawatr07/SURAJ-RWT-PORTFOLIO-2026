@@ -4,13 +4,7 @@ import { useRef, useState } from 'react';
 import {
   Mail,
   Phone,
-  MapPin,
-  Send,
-  Linkedin,
-  Github,
-  Sparkles,
-  MessageSquare,
-  User,
+  MapP
   Briefcase,
 } from 'lucide-react';
 
