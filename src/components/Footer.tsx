@@ -3,8 +3,7 @@ import { motion } from 'framer-motion';
 import {
   Github,
   Linkedin,
-  Instagram,
-  ArrowUpRight,
+  IwUpRight,
   Heart,
 } from 'luc
 const socials = [
