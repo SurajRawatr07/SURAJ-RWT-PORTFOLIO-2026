@@ -7,9 +7,7 @@ export default function AnimatedBackground() {
     <div className="fixed inset-0 -z-10 overflow-hidden pointer-events-none bg-background">
       {/* Soft mesh g
         className="absolute inse
-      />
-
-      {/* Floating gradient orbs (disabled on mobile for perf) */}
+      />ent orbs (disabled on mobile for perf) */}
       {!isMobile && (
         <>
           <div className="absolute -top-32 -left-32 w-[40rem] h-[40rem] rounded-full bg-primary/20 blur-3xl animate-blob" />
