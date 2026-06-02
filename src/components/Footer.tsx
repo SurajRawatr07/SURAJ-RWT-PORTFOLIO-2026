@@ -6,8 +6,7 @@ import {
   Instagram,
   ArrowUpRight,
   Heart,
-} from 'lucide-react';
-
+} from 'luc
 const socials = [
     username: '@SurajRawatr07',
     gradient: 'from-zinc-500 to-zinc-700',
