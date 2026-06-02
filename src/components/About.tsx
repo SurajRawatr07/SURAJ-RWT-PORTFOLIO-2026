@@ -5,12 +5,7 @@ import {
   Code2,
   SeldCheck,
   Gauge,
-} from 'l
-
-  {
-    icon: ServerCog,
-    title: 'Backend Engineering',
-    description:
+} from 'ln:
       'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
     gradient: 'from-violet-500 to-purple-500',
   },
