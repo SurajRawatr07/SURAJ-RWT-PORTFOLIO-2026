@@ -3,10 +3,7 @@ import { useRef } from 'react';
 
 import {
   Code2,
-  ServerCog,
-  Database,
-  Globe2,
-  ShieldCheck,
+  SeldCheck,
   Gauge,
   Sparkles,
   Layers3,
