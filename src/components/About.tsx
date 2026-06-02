@@ -5,10 +5,7 @@ import {
   Code2,
   SeldCheck,
   Gauge,
-} from 'ln:
-      'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
-    gradient: 'from-
-    title: 'Database Management',
+} fre: 'Database Management',
     description:
       'Optimized database design, efficient query handling, indexing, and scalable data management with MongoDB & SQL.',
     gradient: 'from-emerald-500 to-teal-500',
