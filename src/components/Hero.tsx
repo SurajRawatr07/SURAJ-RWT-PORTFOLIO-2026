@@ -7,8 +7,6 @@ import {
   Mail,
   Sparkles,
   Code2,
-  ArrowRight,
-  Github,
   Linkedin,
   Instagram,
   Globe,
