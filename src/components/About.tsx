@@ -6,12 +6,7 @@ import {
   SeldCheck,
   Gauge,
 } from 'l===================================
-   FULL STACK HIGHLIGHTS
-========================================= */
-
-const highlights = [
-  {
-    icon: Code2,
+   FULL STA2,
     title: 'Frontend Development',
     description:
       'Building scalable, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
