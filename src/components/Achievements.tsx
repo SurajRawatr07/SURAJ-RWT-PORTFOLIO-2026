@@ -10,10 +10,7 @@ const images = import.meta.glob(
     import: 'default',
   }
 );
-const certifistring,
-}));
-
-export default function Achievements() {
+const certit function Achievements() {
   const ref = useRef(null);
 
   const isInView = useInView(ref, {
