@@ -5,13 +5,7 @@ import e-react';
    EXPERIENCE DATA
 ===============w Date('2024-01-01'),
 
-    location: 'Remote',
-
-    skills: [
-      'React',
-      'Node.js',
-      'MongoDB',
-      'Express',
+    location
       'REST APIs',
     ],
 
