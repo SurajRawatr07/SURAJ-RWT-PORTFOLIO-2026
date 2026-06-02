@@ -5,11 +5,6 @@ import {
   Mail,
   Phone,
   MapP
-  Brie 'mailto:rawatsuraj80627@gmail.com',
-    gradient: 'from-cyan-500 to-blue-500',
-  },
-
-  {
     icon: Phone,
     label: 'Phone',
     value: '+91 9675219087',
