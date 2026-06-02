@@ -11,11 +11,6 @@ const images = import.meta.glob(
 
   con
 
-  const prev = () => {
-    setActive(
-      (prev) => (prev - 1 + certificates.length) % certificates.length
-    );
-  };
 
   const handleDragEnd = (_: unknown, info: PanInfo) => {
     if (info.offset.x < -50) next();
