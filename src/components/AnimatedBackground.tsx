@@ -7,12 +7,7 @@ export default function AnimatedBackground() {
     <div className="fixed inset-0 -z-10 overflow-hidden pointer-events-none bg-background">
       {/* Soft mesh gradient base */}
       <div
-        className="absolute inset-0 opacity-90"
-        style={{ background
-            'radial-gradient(ellipse at center, black 40%, transparent 85%)',
-          WebkitMaskImage:
-            'radial-gradient(ellipse at center, black 40%, transparent 85%)',
-        }}
+        className="absolute inse
       />
 
       {/* Floating gradient orbs (disabled on mobile for perf) */}
