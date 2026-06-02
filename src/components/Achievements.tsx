@@ -10,10 +10,7 @@ const images = import.meta.glob(
   const ref = useRef(null);
 
   const isInView = useInView(ref, {
-    once: true,
-  });
-
-  const [active, setActive] = useState(0);
+    once: tr, setActive] = useState(0);
 
   const next = () => {
     setActive((prev) => (prev + 1) % certificates.length);
