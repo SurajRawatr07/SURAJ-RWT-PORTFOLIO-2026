@@ -3,11 +3,8 @@ import { motion } from 'framer-motion';
 import {
   Github,
   Linkedin,
-  IwUpRight,
-  Heart,
-} from 'luc//www.linkedin.com/in/suraj-rawat-30513b340',
-    label: 'LinkedIn',
-    username: 'Suraj Rawat',
+  IwUpRigs
+  'Suraj Rawat',
     gradient: 'from-blue-500 to-cyan-500',
   },
 
