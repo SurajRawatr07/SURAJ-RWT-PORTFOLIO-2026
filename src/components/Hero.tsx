@@ -9,12 +9,6 @@ const ]
 
 ========================================= */
 
-const techStack = [
-  {
-    icon: Globe,
-    label: 'React.js',
-    color: 'text-cyan-400',
-  },
 
   {
     icon: Server,
