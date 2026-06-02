@@ -6,16 +6,6 @@ import {
   ,========================== */
 
 const ]
-
-========================================= */
-
-
-  {
-    icon: Server,
-    label: 'Node.js',
-    color: 'text-green-500',
-  },
-
   {
     icon: Database,
     label: 'MongoDB',
