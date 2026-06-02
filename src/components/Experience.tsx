@@ -3,13 +3,7 @@ import e-react';
 
 /* =========================================
    EXPERIENCE DATA
-========================================= */
-
-const experiences = [
-  {
-    period: 'Jan 2024 - Present',
-
-    startDate: new Date('2024-01-01'),
+===============w Date('2024-01-01'),
 
     location: 'Remote',
 
