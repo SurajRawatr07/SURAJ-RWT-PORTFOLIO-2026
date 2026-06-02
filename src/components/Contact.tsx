@@ -5,10 +5,7 @@ import {
   Mail,
   Phone,
   MapP
-  Briefcase,
-} from 'lucide-react';
-=========rawatsuraj80627@gmail.com',
-    href: 'mailto:rawatsuraj80627@gmail.com',
+  Brie 'mailto:rawatsuraj80627@gmail.com',
     gradient: 'from-cyan-500 to-blue-500',
   },
 
