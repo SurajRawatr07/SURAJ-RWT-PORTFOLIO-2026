@@ -4,7 +4,6 @@ import {
   Github,
   Linkedin,
   Instagram,
-  Mail,
   ArrowUpRight,
   Heart,
   Sparkles,
