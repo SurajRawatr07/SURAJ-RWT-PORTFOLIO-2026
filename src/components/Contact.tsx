@@ -1,4 +1,47 @@
-import { ',
+import { motion, useInView } from 'framer-motion';
+import { useRef, useState } from 'react';
+
+import {
+  Mail,
+  Phone,
+  MapPin,
+  Send,
+  Linkedin,
+  Github,
+  Sparkles,
+  MessageSquare,
+  User,
+  Briefcase,
+} from 'lucide-react';
+
+import { toast } from 'sonner';
+
+/* =========================================
+   CONTACT INFO
+========================================= */
+
+const contactInfo = [
+  {
+    icon: Mail,
+    label: 'Email',
+    value: 'rawatsuraj80627@gmail.com',
+    href: 'mailto:rawatsuraj80627@gmail.com',
+    gradient: 'from-cyan-500 to-blue-500',
+  },
+
+  {
+    icon: Phone,
+    label: 'Phone',
+    value: '+91 9675219087',
+    href: 'tel:+919675219087',
+    gradient: 'from-violet-500 to-purple-500',
+  },
+
+  {
+    icon: MapPin,
+    label: 'Location',
+    value: 'Haldwani, Uttarakhand, India',
+    href: '#',
     gradient: 'from-emerald-500 to-teal-500',
   },
 ];
