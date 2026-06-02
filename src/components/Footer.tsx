@@ -5,12 +5,7 @@ import {
   Linkedin,
   IwUpRight,
   Heart,
-} from 'luc
-const socials = [
-    use
-  {
-    icon: Linkedin,
-    href: 'https://www.linkedin.com/in/suraj-rawat-30513b340',
+} from 'luc//www.linkedin.com/in/suraj-rawat-30513b340',
     label: 'LinkedIn',
     username: 'Suraj Rawat',
     gradient: 'from-blue-500 to-cyan-500',
