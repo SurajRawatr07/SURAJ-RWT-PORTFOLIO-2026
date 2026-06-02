@@ -1,8 +1,5 @@
 import { motion, useInView } from 'framer-motion';
-import { useRef } from 'react';
-
-import {
-  Calucide-react';
+import e-react';
 
 /* =========================================
    EXPERIENCE DATA
