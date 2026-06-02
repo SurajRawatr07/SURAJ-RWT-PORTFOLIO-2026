@@ -7,13 +7,7 @@ import {
   MapP
   Briefcase,
 } from 'lucide-react';
-============================= */
-
-const contactInfo = [
-  {
-    icon: Mail,
-    label: 'Email',
-    value: 'rawatsuraj80627@gmail.com',
+=========rawatsuraj80627@gmail.com',
     href: 'mailto:rawatsuraj80627@gmail.com',
     gradient: 'from-cyan-500 to-blue-500',
   },
