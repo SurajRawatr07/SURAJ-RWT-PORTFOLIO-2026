@@ -7,12 +7,6 @@ import e-react';
 
 const experiences = [
   {
-    title: 'Full-Stack Developer (Projects & Practice)',
-
-    company: 'Self-Driven Learning',
-
-    type: 'Experience',
-
     period: 'Jan 2024 - Present',
 
     startDate: new Date('2024-01-01'),
