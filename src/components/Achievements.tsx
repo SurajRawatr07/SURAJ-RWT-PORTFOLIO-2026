@@ -13,11 +13,7 @@ const images = import.meta.glob(
 
 const certificateImages = Object.values(images);
 
-const certificates = certificateImages.map((image, index) => ({
-  title: `Certificate ${index + 1}`,
-  issuer: 'Organizations & Colleges',
-  date: '2025 & 2026',
-  image: image as string,
+const certifistring,
 }));
 
 export default function Achievements() {
