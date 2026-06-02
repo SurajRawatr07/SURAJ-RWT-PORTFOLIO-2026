@@ -4,13 +4,7 @@ import { useEffect, useState } from 'react';
 import {
   ChevronDown,
   Download,
-  Mail,
-  Sparkles,
-  Code2,
-  Linkedin,
-/* =========================================
-   ROLE ANIMATION
-========================================= */
+  Mail,========================== */
 
 const roles = [
   'FULL STACK DEVELOPER',
