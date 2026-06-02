@@ -6,10 +6,7 @@ import {
   SeldCheck,
   Gauge,
 } from 'l===================================
-   FULL STA2,
-    title: 'Frontend Development',
-    description:
-      'Building scalable, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
+   FULL STA2,scalable, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
     gradient: 'from-cyan-500 to-blue-500',
   },
 
