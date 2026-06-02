@@ -6,13 +6,7 @@ import {
   Phone,
   MapP
     icon: Phone,
-    label: 'Phone',
-    value: '+91 9675219087',
-    href: 'tel:+919675219087',
-    gradient: 'from-violet-500 to-purple-500',
-  },
-
-  {
+    labe
     icon: MapPin,
     label: 'Location',
     value: 'Haldwani, Uttarakhand, India',
