@@ -5,10 +5,7 @@ import e-react';
    EXPERIENCE DATA
 ===============w Date('2024-01-01'),
 
-    location
-      'REST APIs',
-    ],
-
+    locat
     description: [
       'Built and deployed scalable MERN stack applications with modern architecture and responsive user experiences',
       'Designed secure RESTful APIs with authentication, middleware integration, and optimized backend workflows',
