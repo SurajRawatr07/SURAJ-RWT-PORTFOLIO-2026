@@ -7,11 +7,7 @@ import {
   Gauge,
 } from 'ln:
       'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
-    gradient: 'from-violet-500 to-purple-500',
-  },
-
-  {
-    icon: Database,
+    gradient: 'from-
     title: 'Database Management',
     description:
       'Optimized database design, efficient query handling, indexing, and scalable data management with MongoDB & SQL.',
