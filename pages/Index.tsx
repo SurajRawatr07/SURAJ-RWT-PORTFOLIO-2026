@@ -6,7 +6,6 @@ import Experience from '@/components/Experience';
 importashDone, setSplashDone] = useState(false);
   const handleSplashComplete = useCallback(() => setSplashDone(true), []);
 
-  return (
     <main className="relative min-h-screen overflow-x-hidden w-full">
       {/* Shutter Splash */}
       {!splashDone && <ShutterSplash onComplete={handleSplashComplete} />}
