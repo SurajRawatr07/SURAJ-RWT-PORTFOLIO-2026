@@ -3,12 +3,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Experience from '@/components/Experience';
-import Skills from '@/components/Skills';
-import Achievements from '@/components/Achievements';
-import Contact from '@/componentsMarqueeStrip';
-
-const Index = () => {
-  const [splashDone, setSplashDone] = useState(false);
+importashDone, setSplashDone] = useState(false);
   const handleSplashComplete = useCallback(() => setSplashDone(true), []);
 
   return (
