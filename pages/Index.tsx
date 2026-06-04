@@ -4,10 +4,7 @@ import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Experience from '@/components/Experience';
 importashDone, setSplashDone] = useState(false);
-  const handleSplashComplete = useCallback(() => setSplashDone(true), []);
-
-    <main className="relative min-h-screen overflow-x-hidden w-full">
-      {/* Shutter Splash */}
+  const handter Splash */}
       {!splashDone && <ShutterSplash onComplete={handleSplashComplete} />}
 
       {/* Animated Background */}
