@@ -6,11 +6,7 @@ impor
       
       {/* Main Content */}
       <Hero />
-      <MarqueeStrip />
-      <About />
-      <Experience />
-      <Skills />
-      <Projects />
+   rojects />
       <Achievements />
       <Contact />
       <Footer />
