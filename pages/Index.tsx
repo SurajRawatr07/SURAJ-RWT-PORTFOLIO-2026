@@ -4,12 +4,7 @@ impor
       {/* Navigation */}
       <Navbar />
       
-      {/* Main Content */}
-      <Hero />
-   rojects />
-      <Achievements />
-      <Contact />
-      <Footer />
+  ooter />
     </main>
   );
 };
