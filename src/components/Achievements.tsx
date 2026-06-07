@@ -5,15 +5,7 @@ import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 const certificates = certificateImages.map((image, index) => ({
   title: `Certificate ${index + 1}`,
   issuer: 'Organizations & Colleges',
-  date: '2025 & 2026',
-  image: image as string,
-}));
-
-export default function Achievements() {
-  const ref = useRef(null);
-
-  const isInView = useInView(ref, {
-    once: true,
+  date: rue,
   });
 
   const [active, setActive] = useState(0);
