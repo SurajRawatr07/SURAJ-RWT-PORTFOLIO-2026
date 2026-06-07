@@ -6,11 +6,7 @@ const certificates = certificateImages.map((image, index) => ({
   title: `Certificate ${index + 1}`,
   issuer: 'Organizations & Colleges',
   date: rue,
-  });
-    setActive((prev) => (prev + 1) % certificates.length);
-  };
-
-  const prev = () => {
+  });() => {
     setActive(
       (prev) => (prev - 1 + certificates.length) % certificates.length
     );
