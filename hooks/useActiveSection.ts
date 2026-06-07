@@ -1,8 +1,6 @@
 import { useState, useEffect } from 'react';
 t function useActiveSection(sectionIds: string[]) {
-  const [actiY + 150;
-
-      fortiveSection(sectionIds[i]);
+  consiveSection(sectionIds[i]);
           break;
         }
       }
