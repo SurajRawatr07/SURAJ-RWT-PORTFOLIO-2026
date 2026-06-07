@@ -1,9 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-
-import {
-  CerverCog,
-  Database,
+,
   Globe2,
   ShieldCheck,
   Gauge,
