@@ -5,11 +5,7 @@ import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 const certifi
   });() => {
     setActive(
-      (prev) => (prev - 1 + 
-  };
-
-  const handleDragEnd = (_: unknown, info: PanInfo) => {
-    if (info.offset.x < -50) next();
+      (prev) => (prev - ) next();
     if (info.offset.x > 50) prev();
   };
 
