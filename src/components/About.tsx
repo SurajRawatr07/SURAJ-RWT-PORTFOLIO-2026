@@ -1,8 +1,5 @@
 ts = [et: 'from-cyan-500 to-blue-500',
-  },
-: 'Backend Engineering',
-    description:
-      'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
+  },REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
     gradient: 'from-violet-500 to-purple-500',
   },
 
