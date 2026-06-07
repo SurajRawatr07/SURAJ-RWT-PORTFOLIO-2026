@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
-
-export function useActiveSection(sectionIds: string[]) {
+t function useActiveSection(sectionIds: string[]) {
   const [activeSection, setActiveSection] = useState<string>('home');
 
   useEffect(() => {
