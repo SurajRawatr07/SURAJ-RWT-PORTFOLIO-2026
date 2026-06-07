@@ -5,11 +5,7 @@ ts = [et: 'from-cyan-500 to-blue-500',
   {
     icon: Globe2,
     title: 'Full Stack Projects',
-    description:
-      'Crafting modern MERN stack applications with production-ready workflows and real-world scalability.',
-    gradient: 'from-orange-500 to-amber-500',
-  },
-
+    descri
   {
     icon: ShieldCheck,
     title: 'Authentication & Security',
