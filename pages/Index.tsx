@@ -6,6 +6,4 @@ impashDone && <ShutterSplash onComplete={handleSplashComplete} />}
 
       perience />
       <Skills />
-      <Projects />
-      <Achievements />
-      <
+     
