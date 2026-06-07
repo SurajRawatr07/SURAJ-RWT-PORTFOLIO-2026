@@ -1,5 +1,4 @@
-ts = [e, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
-    gradient: 'from-cyan-500 to-blue-500',
+ts = [et: 'from-cyan-500 to-blue-500',
   },
 
   {
