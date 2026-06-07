@@ -2,7 +2,7 @@ st ToastProps } from "@/components/ui/toast";
 
 const TOAST_REMOVE_DELAY = 1000000;
 
-type ToasterToast = ToastProps & {
+type ToasterToast = Toops & {
   id: string;
   title?: React.ReactNode;
   description?: React.ReactNode;
