@@ -1,6 +1,4 @@
-
-= 768;
-() {seEffectwindow.innerWidth < MOBILE_BREAKPOINT);
+{seEffectwindow.innerWidth < MOBILE_BREAKPOINT);
     };
     mql.addEventListener("change", onChange);
     setIsMobile(window.innerWidth < MOBILE_BREAKPOINT);
