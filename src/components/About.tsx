@@ -1,9 +1,6 @@
 ts = [et: 'from-cyan-500 to-blue-500',
   },
-
-  {
-    icon: ServerCog,
-    title: 'Backend Engineering',
+: 'Backend Engineering',
     description:
       'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
     gradient: 'from-violet-500 to-purple-500',
