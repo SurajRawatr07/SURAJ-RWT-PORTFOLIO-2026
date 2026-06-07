@@ -13,5 +13,3 @@ impashDone && <ShutterSplash onComplete={handleSplashComplete} />}
     </main>
   );
 };
-
-export default Index;
