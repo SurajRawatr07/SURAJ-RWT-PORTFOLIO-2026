@@ -1,9 +1,70 @@
-ts = [et: 'from-cyan-500 to-blue-500',
-  },REST APIs,-emerald-500 to-teal-500',
+import { motion, useInView } from 'framer-motion';
+import { useRef } from 'react';
+
+import {
+  Code2,
+  ServerCog,
+  Database,
+  Globe2,
+  ShieldCheck,
+  Gauge,
+  Sparkles,
+  Layers3,
+  GraduationCap,
+  Trophy,
+  BrainCircuit,
+} from 'lucide-react';
+
+/* =========================================
+   FULL STACK HIGHLIGHTS
+========================================= */
+
+const highlights = [
+  {
+    icon: Code2,
+    title: 'Frontend Development',
+    description:
+      'Building scalable, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
+    gradient: 'from-cyan-500 to-blue-500',
   },
 
-  { 'from-pink-500 to-rose-500',
-  },ing speed and scalability through lazy loading, caching, code splitting, and rendering optimization.',
+  {
+    icon: ServerCog,
+    title: 'Backend Engineering',
+    description:
+      'Developing secure REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
+    gradient: 'from-violet-500 to-purple-500',
+  },
+
+  {
+    icon: Database,
+    title: 'Database Management',
+    description:
+      'Optimized database design, efficient query handling, indexing, and scalable data management with MongoDB & SQL.',
+    gradient: 'from-emerald-500 to-teal-500',
+  },
+
+  {
+    icon: Globe2,
+    title: 'Full Stack Projects',
+    description:
+      'Crafting modern MERN stack applications with production-ready workflows and real-world scalability.',
+    gradient: 'from-orange-500 to-amber-500',
+  },
+
+  {
+    icon: ShieldCheck,
+    title: 'Authentication & Security',
+    description:
+      'Implementing JWT authentication, middleware systems, protected routes, and secure API integrations.',
+    gradient: 'from-pink-500 to-rose-500',
+  },
+
+  {
+    icon: Gauge,
+    title: 'Performance Optimization',
+    description:
+      'Improving speed and scalability through lazy loading, caching, code splitting, and rendering optimization.',
     gradient: 'from-indigo-500 to-cyan-500',
   },
 ];
