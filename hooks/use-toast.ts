@@ -1,7 +1,6 @@
 st ToastProps } from "@/components/ui/toast";
 
-const TOAST_REMOVE_DELAY = 1000000;
-
+const TOAST_REMOVE_DELAY 
 type ToasterToast =
   id: string;
   title?: React.ReactNode;
