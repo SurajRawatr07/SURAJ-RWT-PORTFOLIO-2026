@@ -1,8 +1,6 @@
 st ToastProps } from "@/components/ui/toast";
 
 const TOAST_REMOVE_DELAY 
-type Tng;nElement;
-};
 
 const actionTypes = {
   ADD_TOAST: "ADD_TOAST",
