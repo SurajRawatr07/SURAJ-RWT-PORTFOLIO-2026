@@ -6,12 +6,7 @@ import Experience from '@/components/Experience';
 import Skills from '@/components/Skills';
 import Projects from '@/cponents/MarqueeStrip';
 
-const Index = () => {
-  const [splashDone, setSplashDone] = useState(false);
-  const handleSplashComplete = useCallback(() => setSplashDone(true), []);
-
-  return (
-    <main className="relative min-h-screen overflow-x-hidden w-full">
+const Index = me="relative min-h-screen overflow-x-hidden w-full">
       {/* Shutter Splash */}
       {!splashDone && <ShutterSplash onComplete={handleSplashComplete} />}
 
