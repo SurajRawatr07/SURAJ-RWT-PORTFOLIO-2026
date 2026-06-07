@@ -1,7 +1,4 @@
-import { motion, useInView } from 'framer-motion';
-import { useRef } from 'react';
-,,
-  Graduatights = [e, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
+ts = [e, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
     gradient: 'from-cyan-500 to-blue-500',
   },
 
