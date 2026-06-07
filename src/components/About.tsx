@@ -2,11 +2,7 @@ ts = [et: 'from-cyan-500 to-blue-500',
   },REST APIs, server-side logic, authentication systems, and scalable backend architecture.',
     gradient: 'from-violet-500 to-purple-500',
   },
-
-  {
-    icon: Database,
-    title: 'Database Management',
-    description:
+tion:
       'Optimized database design, efficient query handling, indexing, and scalable data management with MongoDB & SQL.',
     gradient: 'from-emerald-500 to-teal-500',
   },
