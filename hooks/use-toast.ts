@@ -3,15 +3,7 @@ st ToastProps } from "@/components/ui/toast";
 const TOAST_REMOVE_DELAY 
 
 const actionTypes = {
-  ADD_TOAST: "ADD_TOAST",
-  UPDATE_TOAST: "UPDATE_TOAST",
-  DISunt + 1) % Number.MAX_SAFE_INTEGER;
-  return count.toString();
-}
-
-type ActionType = typeof actionTypes;
-
-type Action =
+  ADD_TO
   | {
       type: ActionType["ADD_TOAST"];
       toast: ToasterToast;
