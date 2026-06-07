@@ -2,10 +2,6 @@ import { motion, useInView, PanInfo } from 'framer-motion';
 import { useRef, useState } from 'react';
 import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 
-// AUTO IMPORT ALL CERTIFICATE IMAGES
-const images = import.meta.glob(
-  '/src/assets/certificates/*.{png,jpg,jpeg,JPG,JPEG,PNG}',
-  {
     eager: true,
     import: 'default',
   }
