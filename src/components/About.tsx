@@ -3,13 +3,7 @@ ts = [et: 'from-cyan-500 to-blue-500',
   },
 
   { 'from-pink-500 to-rose-500',
-  },
-
-  {
-    icon: Gauge,
-    title: 'Performance Optimization',
-    description:
-      'Improving speed and scalability through lazy loading, caching, code splitting, and rendering optimization.',
+  },ing speed and scalability through lazy loading, caching, code splitting, and rendering optimization.',
     gradient: 'from-indigo-500 to-cyan-500',
   },
 ];
