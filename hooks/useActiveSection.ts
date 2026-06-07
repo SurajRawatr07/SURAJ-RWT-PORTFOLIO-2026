@@ -2,8 +2,7 @@ import { useState, useEffect } from 'react';
 t function useActiveSection(sectionIds: string[]) {
   const [activeSection, setActiveSection] = useState<string>('home');
 
-  useEffect(() => {() => {
-      const scrollPosition = window.scrollY + 150;
+  useEffet scrollPosition = window.scrollY + 150;
 
       for (let i = sectionIds.length - 1; i >= 0; i--) {
         const section = document.getElementById(sectionIds[i]);
