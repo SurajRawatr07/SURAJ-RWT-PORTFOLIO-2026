@@ -2,10 +2,7 @@ import { motion, useInView, PanInfo } from 'framer-motion';
 import { useRef, useState } from 'react';
 import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 
-const certificates = certificateImages.map((image, index) => ({
-  title: `Certificate ${index + 1}`,
-  issuer: 'Organizations & Colleges',
-  date: rue,
+const certifi
   });() => {
     setActive(
       (prev) => (prev - 1 + certificates.length) % certificates.length
