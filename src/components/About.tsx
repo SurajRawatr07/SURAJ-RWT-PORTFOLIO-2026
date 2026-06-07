@@ -2,8 +2,7 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 import {
-  Code2,
-  ServerCog,
+  CerverCog,
   Database,
   Globe2,
   ShieldCheck,
