@@ -8,6 +8,4 @@ impashDone && <ShutterSplash onComplete={handleSplashComplete} />}
       <Skills />
       <Projects />
       <Achievements />
-      <Contact />
-      <Footer />
-  
+      <
