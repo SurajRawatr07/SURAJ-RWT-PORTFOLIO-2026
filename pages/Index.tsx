@@ -4,6 +4,4 @@ import Hero from '@/components/Hero';
 import About from '@/components/About';
 impashDone && <ShutterSplash onComplete={handleSplashComplete} />}
 
-      perience />
-      <Skills />
-     
+      
