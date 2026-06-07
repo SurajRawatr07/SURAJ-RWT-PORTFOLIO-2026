@@ -2,13 +2,6 @@ import { motion, useInView, PanInfo } from 'framer-motion';
 import { useRef, useState } from 'react';
 import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 
-    eager: true,
-    import: 'default',
-  }
-);
-
-const certificateImages = Object.values(images);
-
 const certificates = certificateImages.map((image, index) => ({
   title: `Certificate ${index + 1}`,
   issuer: 'Organizations & Colleges',
