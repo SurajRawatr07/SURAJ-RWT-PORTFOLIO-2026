@@ -10,6 +10,4 @@ impashDone && <ShutterSplash onComplete={handleSplashComplete} />}
       <Achievements />
       <Contact />
       <Footer />
-    </main>
-  );
-};
+  
