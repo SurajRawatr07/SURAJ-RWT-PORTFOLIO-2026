@@ -3,8 +3,6 @@ t function useActiveSection(sectionIds: string[]) {
   consiveSection(sectionIds[i]);
           break;
         }
-      }
-    };
 
     window.addEventListener('scroll', handleScroll);
     handleScroll();
