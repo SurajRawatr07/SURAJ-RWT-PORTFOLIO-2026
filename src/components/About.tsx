@@ -1,11 +1,7 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 ,,
-  GraduationCap,
-  Trophy,
-  BrainCircuit,
-} from 'lucide-react';
-
+  GraduationCa
 /* =========================================
    FULL STACK HIGHLIGHTS
 ========================================= */
