@@ -1,12 +1,7 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 ,,
-  GraduationCa
-/* =========================================
-   FULL STACK HIGHLIGHTS
-========================================= */
-
-const highlights = [
+  Graduatights = [
   {
     icon: Code2,
     title: 'Frontend Development',
