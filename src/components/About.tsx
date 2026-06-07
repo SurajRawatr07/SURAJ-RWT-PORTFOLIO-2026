@@ -2,16 +2,7 @@ ts = [et: 'from-cyan-500 to-blue-500',
   },REST APIs,-emerald-500 to-teal-500',
   },
 
-  {
-    icon: Globe2,
-    title: 'Full Stack Projects',
-    descri
-  {
-    icon: ShieldCheck,
-    title: 'Authentication & Security',
-    description:
-      'Implementing JWT authentication, middleware systems, protected routes, and secure API integrations.',
-    gradient: 'from-pink-500 to-rose-500',
+  { 'from-pink-500 to-rose-500',
   },
 
   {
