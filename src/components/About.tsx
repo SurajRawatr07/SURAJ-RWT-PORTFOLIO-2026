@@ -1,12 +1,7 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 ,,
-  Graduatights = [
-  {
-    icon: Code2,
-    title: 'Frontend Development',
-    description:
-      'Building scalable, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
+  Graduatights = [e, responsive, and immersive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
     gradient: 'from-cyan-500 to-blue-500',
   },
 
