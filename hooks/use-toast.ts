@@ -1,10 +1,7 @@
 st ToastProps } from "@/components/ui/toast";
 
 const TOAST_REMOVE_DELAY 
-type Tng;
-  title?: React.ReactNode;
-  descripton?: React.ReactNode;
-  action?: ToastActionElement;
+type Tng;nElement;
 };
 
 const actionTypes = {
