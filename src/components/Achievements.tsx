@@ -5,8 +5,7 @@ import { ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 const certifi
   });() => {
     setActive(
-      (prev) => (prev - 1 + certificates.length) % certificates.length
-    );
+      (prev) => (prev - 1 + 
   };
 
   const handleDragEnd = (_: unknown, info: PanInfo) => {
