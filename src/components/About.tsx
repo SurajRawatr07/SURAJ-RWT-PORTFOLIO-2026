@@ -1,11 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-,
-  Globe2,
-  ShieldCheck,
-  Gauge,
-  Sparkles,
-  Layers3,
+,,
   GraduationCap,
   Trophy,
   BrainCircuit,
