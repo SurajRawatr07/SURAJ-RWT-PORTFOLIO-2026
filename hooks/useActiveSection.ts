@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 t function useActiveSection(sectionIds: string[]) {
-  const [activeSection, setActiveSection] = useState<string>('home');
-tion = window.scrollY + 150;
+  const [actiY + 150;
 
       for (let i = sectionIds.length - 1; i >= 0; i--) {
         const section = document.getElementById(sectionIds[i]);
