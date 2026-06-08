@@ -6,12 +6,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 impoClientProvider client={queryClient}>
     <TooltipProvider>
-      <Toaster />
-      <Sonner />
-      <BrowserRouter>
-      </BrowserRouter>
-    </TooltipProvider>
-  </QueryClientProvider>
-);
+      <T
 
 export default App;
